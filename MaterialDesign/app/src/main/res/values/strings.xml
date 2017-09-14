@@ -3,6 +3,7 @@
     <string name="main_menu_opt1">Manipular Textos</string>
     <string name="main_menu_opt2">Manipular Imagen</string>
     <string name="main_menu_opt3">Manipular combobox</string>
+    <string name="main_menu_opt4">Manipular Lista</string>
 
     <string name="text_insert">Ingresa un valor</string>
     <string name="leer_texto">LEER TEXTO</string>

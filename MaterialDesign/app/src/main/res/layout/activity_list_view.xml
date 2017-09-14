@@ -11,5 +11,14 @@
     <ListView
         android:id="@+id/lv_list"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="245dp"
+        android:layout_margin="10dp" />
+
+    <ImageView
+        android:id="@+id/iv_list"
+        android:layout_width="match_parent"
+        android:layout_height="213dp"
+        android:layout_margin="10dp"
+        android:adjustViewBounds="true"
+        app:srcCompat="@drawable/atm" />
 </LinearLayout>

@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.csalazar.materialdesign.activities.ImageOptActivity;
+import com.csalazar.materialdesign.activities.ListViewActivity;
 import com.csalazar.materialdesign.activities.SelectedOptActivity;
 import com.csalazar.materialdesign.activities.TextActivity;
 
@@ -23,10 +24,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openImage(View view){
+
         startActivity(new Intent(this, ImageOptActivity.class));
     }
 
     public void openSelected(View view){
         startActivity(new Intent(this, SelectedOptActivity.class));
+    }
+
+    public void openListView(View view){
+        startActivity(new Intent(this, ListViewActivity.class));
     }
 }
