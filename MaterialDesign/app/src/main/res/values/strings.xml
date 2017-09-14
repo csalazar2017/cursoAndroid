@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MaterialDesignEspañol</string>
+    <string name="main_menu_opt1">Manipular Textos</string>
+    <string name="main_menu_opt2">Manipular Imagen</string>
+    <string name="main_menu_opt3">Manipular combobox</string>
+
+    <string name="text_insert">Ingresa un valor</string>
+    <string name="leer_texto">LEER TEXTO</string>
+    <string name="msj_empty_text">No has ingresado un texto...</string>
+
+    <string name="cbx_atm">Cajero</string>
+    <string name="cbx_bag">Bolsa</string>
+    <string name="cbx_basket">Canasta</string>
+    <string name="cbx_box">Caja</string>
+    <string name="cbx_briefcase">Maletin</string>
+    <string name="cbx_calculator">Calculadora</string>
+
+    <string-array name="selected_options">
+        <item>Cajero</item>
+        <item>Bolsa</item>
+        <item>Canasta</item>
+        <item>Caja</item>
+        <item>Maletin</item>
+        <item>Calculadora</item>
+    </string-array>
+
+</resources>

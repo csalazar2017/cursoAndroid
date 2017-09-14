@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialDesignFrances</string>
+    <string name="main_menu_opt1">Manipuler Des Textes</string>
+    <string name="text_insert">Ingresa un valor</string>
+    <string name="leer_texto">LEER TEXTO</string>
+    <string name="main_menu_opt2">Image Manipulation</string>
+    <string name="main_menu_opt3">Manipular combobox</string>
+</resources>
