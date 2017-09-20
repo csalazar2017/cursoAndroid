@@ -15,6 +15,7 @@
     <string name="cbx_box">Caja</string>
     <string name="cbx_briefcase">Maletin</string>
     <string name="cbx_calculator">Calculadora</string>
+    <string name="cbx_imagen2">Ojo</string>
 
     <string-array name="selected_options">
         <item>Cajero</item>
@@ -24,5 +25,9 @@
         <item>Maletin</item>
         <item>Calculadora</item>
     </string-array>
+    <string name="title_activity_recycler">RecyclerActivity</string>
+    <string name="title_activity_recycler_tarea">RecyclerTareaActivity</string>
+    <string name="recycler_view">Manipular Vista</string>
+    <string name="recycler">Recycler View</string>
 
 </resources>

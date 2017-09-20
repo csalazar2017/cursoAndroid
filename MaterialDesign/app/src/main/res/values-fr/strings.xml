@@ -6,4 +6,6 @@
     <string name="main_menu_opt2">Image Manipulation</string>
     <string name="main_menu_opt3">Manipular combobox</string>
     <string name="main_menu_opt4">Manipular Lista</string>
+    <string name="recycler_view">Manipular Vista</string>
+    <string name="recycler">Recycler View</string>
 </resources>

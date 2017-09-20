@@ -39,4 +39,18 @@
         android:onClick="openListView"
         android:text="@string/main_menu_opt4" />
 
+    <Button
+        android:id="@+id/btn_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openRecycler"
+        android:text="@string/recycler" />
+
+    <Button
+        android:id="@+id/btn_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openRecyclerView"
+        android:text="@string/recycler_view" />
+
 </LinearLayout>
