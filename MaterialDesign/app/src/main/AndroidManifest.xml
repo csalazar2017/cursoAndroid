@@ -27,6 +27,10 @@
         <activity
             android:name=".activities.RecyclerTareaActivity"
             android:label="@string/title_activity_recycler_tarea"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.StalkingActivity"
+            android:label="@string/title_activity_stalking"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

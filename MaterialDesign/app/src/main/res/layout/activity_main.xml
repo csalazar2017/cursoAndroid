@@ -53,4 +53,11 @@
         android:onClick="openRecyclerView"
         android:text="@string/recycler_view" />
 
+    <Button
+        android:id="@+id/btn_messenge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openMessenges"
+        android:text="@string/main_menu_opt5" />
+
 </LinearLayout>

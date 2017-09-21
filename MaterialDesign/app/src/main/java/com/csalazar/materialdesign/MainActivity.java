@@ -10,6 +10,7 @@ import com.csalazar.materialdesign.activities.ListViewActivity;
 import com.csalazar.materialdesign.activities.RecyclerActivity;
 import com.csalazar.materialdesign.activities.RecyclerTareaActivity;
 import com.csalazar.materialdesign.activities.SelectedOptActivity;
+import com.csalazar.materialdesign.activities.StalkingActivity;
 import com.csalazar.materialdesign.activities.TextActivity;
 
 public class MainActivity extends AppCompatActivity {
@@ -44,5 +45,9 @@ public class MainActivity extends AppCompatActivity {
 
     public void openRecyclerView(View view){
         startActivity(new Intent(this, RecyclerTareaActivity.class));
+    }
+
+    public void openMessenges(View view){
+        startActivity(new Intent(this, StalkingActivity.class));
     }
 }

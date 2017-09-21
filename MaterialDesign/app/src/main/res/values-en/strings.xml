@@ -8,4 +8,5 @@
     <string name="main_menu_opt4">Manipular Lista</string>
     <string name="recycler_view">Manipular Vista</string>
     <string name="recycler">Recycler View</string>
+    <string name="main_menu_opt5">Stalking</string>
 </resources>
